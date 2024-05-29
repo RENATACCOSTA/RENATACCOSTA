@@ -13,8 +13,8 @@ Sobre mim
 Eu já trabalhei com... 🔧
 Tecnologias e Ferramentas
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Mysql-#4479A1?logo=MySQL&logoColor=white&style=for-the-badge)
-![Descrição adicional opcional](https://img.shields.io/badge/-postegres-##4169E1?logo=MySQL&logoColor=white&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-Mysql-4479A1?logo=MySQL&logoColor=white&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-postegres-4169E1?logo=MySQL&logoColor=white&style=for-the-badge)
 ![Descrição adicional opcional](https://img.shields.io/badge/-VS%20CODE-2E2EFE?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Descrição adicional opcional](https://img.shields.io/badge/-python-FFFF00?logo=python&logoColor=black&style=for-the-badge)
 ![Descrição adicional opcional](https://img.shields.io/badge/-redshift-B40404?logo=postgresql&logoColor=black&style=for-the-badge)
