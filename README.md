@@ -14,7 +14,7 @@ Eu já trabalhei com... 🔧
 Tecnologias e Ferramentas
 
 ![Descrição adicional opcional](https://img.shields.io/badge/-Mysql-0431B4?logo=MySQL&logoColor=white&style=for-the-badge)
-![Descrição adicional opcional](https://img.shields.io/badge/-VS%20CODE-0431B4?logo=MySQL&logoColor=white&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-VS%20CODE-2E2EFE?logo=vscode&logoColor=white&style=for-the-badge)
 
 
 
