@@ -4,7 +4,7 @@ Sobre mim
 
 🎓 Sou formada em estatística, com mestrado em Engenharia de Produção e MBA sobre Big Data e IA (em curso). 
 
-🔎 Também sou curioso sobre marketing digital, neurociência e tendências consumidor.
+🔎 Também sou curioso sobre marketing digital, neurociência e tendências do consumidor.
 
 ✒️ Eu gosto de no meu tempo livre de correr, andar de bike e passar tempo com meu filho.
 
