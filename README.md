@@ -2,7 +2,7 @@ Sobre mim
 
 👩‍💻 Atualmente, coordeno um time de Ciência de Dados na RD Saúde e atendo os time de negócio de Pricing.
 
-🎓 Sou formada em estatística, com mestrado em Engenharia de Dados e MBA sobre Big Data e IA, em curso. 
+🎓 Sou formada em estatística, com mestrado em Engenharia de Produção e MBA sobre Big Data e IA (em curso). 
 
 🔎 Também sou curioso sobre marketing digital, neurociência e tendências consumidor.
 
@@ -35,7 +35,7 @@ Tecnologias e Ferramentas
 
 Entre em contato comigo! 📭
 
-<a href="https://www.linkedin.com/in/renata-costa-msc">
+<a href="https://www.linkedin.com/in/renata-costa-msc-701006104/">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
