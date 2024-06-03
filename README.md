@@ -13,18 +13,35 @@ Sobre mim
 Eu já trabalhei com... 🔧
 Tecnologias e Ferramentas
 
-![Descrição adicional opcional](https://img.shields.io/badge/-Mysql-4479A1?logo=MySQL&logoColor=white&style=for-the-badge)
-![Descrição adicional opcional](https://img.shields.io/badge/-postegres-4169E1?logo=MySQL&logoColor=white&style=for-the-badge)
-![Descrição adicional opcional](https://img.shields.io/badge/-VS%20CODE-2E2EFE?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Descrição adicional opcional](https://img.shields.io/badge/-python-FFFF00?logo=python&logoColor=black&style=for-the-badge)
-![Descrição adicional opcional](https://img.shields.io/badge/-redshift-B40404?logo=amazonredshift&logoColor=white&style=for-the-badge)
-![Descrição adicional opcional](https://img.shields.io/badge/-anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge)
+![python](https://img.shields.io/badge/pyhthon-3776AB?logo=python&logoColor=white&style=for-the-badge&width=50&height=50)
+![rstudio](https://img.shields.io/badge/rstudio-848484?logo=R&logoColor=WHITE&style=for-the-badge&width=50&height=50)
+![mysql](https://img.shields.io/badge/sql%20server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge&width=50&height=50)
+![postgresql](https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&width=50&height=50)
+![redshift](https://img.shields.io/badge/redshift-8C4FFF?logo=amazonredshift&logoColor=white&style=for-the-badge&width=50&height=50)
 
-![Descrição adicional opcional](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)
 
+![vscode](https://img.shields.io/badge/vs%20code-2E2EFE?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![jupyter](https://img.shields.io/badge/jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![anaconda](https://img.shields.io/badge/anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge)
+![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)
+![dbeaver](https://img.shields.io/badge/dbeaver-382923?logo=dbeaver&logoColor=white&style=for-the-badge)
+
+![numpy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![scipy](https://img.shields.io/badge/scipy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![ploty](https://img.shields.io/badge/plotly-F4F75?logo=plotly&logoColor=white&style=for-the-badge)
+![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3796DD?logo=Seaborn&logoColor=white&style=for-the-badge)
 
 Entre em contato comigo! 📭
 
+<a href="https://www.linkedin.com/in/renata-costa-msc">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 
 
